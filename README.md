@@ -6,9 +6,9 @@
 * MariaDB 10.4.28
 * PHP 8.1.17 (VS16 X86 64bit thread safe) + PEAR
 * XAMPP Control Panel Version 3.3.0
-* Laravel Framework 10.29.0
+* Laravel Framework 10.48.15
   * [Laravel starter kit (Breeze and Inertia)](https://laravel.com/docs/10.x/starter-kits#breeze-and-inertia)
-* Vue3
+* Vue 3.4.0
   * Packages
       * [Vue3 Table Lite](https://www.npmjs.com/package/vue3-table-lite)
       * [Font awesome](https://www.npmjs.com/package/@fortawesome/fontawesome-svg-core)

@@ -19,7 +19,7 @@
 
 * Migration and seeder are not included  
 
-# Instruction to clone this product locally
+# Instruction to clone this project locally
 
 * Clone the project from the GitHub repository
 * Run ```composer install```

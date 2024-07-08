@@ -19,12 +19,11 @@
 
 * Migration and seeder are not included  
 
-# Commands used in building this project
+# Instruction to clone this product locally
 
-> upon installation, execute when necessary
-```
-npm install @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/vue-fontawesome
-npm install vue3-icon
-npm install vue3-table-lite --save
-npm install --save vue3-toastify
-```
+* Clone the project from the GitHub repository
+* Run ```composer install```
+* Create a .env file base on .env.example
+* Run ```php artisan key:generate```
+* Run ```npm i```
+* Run ```yarn dev```
